@@ -1,2 +1,3 @@
 rootProject.name = 'tabuyos-apache'
+include 'kafka'
 
